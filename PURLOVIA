@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("http://vpaste.net/zhSah"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Purlovia/BGSI/refs/heads/main/v2'))()
